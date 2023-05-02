@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RODRIGO_LEAO_RM87887</string>
+    <string name="title">Filmes que estão em cartaz hoje:</string>
+    <string name="ex_movie_title">Nome do Filme</string>
+    <string name="ex_movie_genre">Gênero</string>
+    <string name="ex_movie_classification">Classificação</string>
+    <string name="ex_movie_sinnopsis">Sinopse</string>
+    <string name="ex_movie_name">Nome do Filme</string>
+    <string name="ex_duration">Duração</string>
+    <string name="example_inTheaters">Em Cartaz</string>
+</resources>
